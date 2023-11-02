@@ -1,5 +1,5 @@
 # giouring
-// https://github.com/pawelgaczynski/giouring  
+reference: https://github.com/pawelgaczynski/giouring  
 
 ## step 1: kernelVer 
 This program displays the linux kernel and the iouring library versions.  
